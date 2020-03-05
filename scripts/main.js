@@ -1,1 +1,3 @@
-console.log("Welcome to the main module")
+import { jokeList } from "./jokes/jokeList.js"
+
+jokeList()
