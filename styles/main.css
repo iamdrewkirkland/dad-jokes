@@ -16,3 +16,12 @@ h1,h2,h3,h4,h5,h6 {
   font-family: "Patua One", serif;
   letter-spacing: 2px;
 }
+
+.dadJokeContainer {
+	display: flex;
+	flex-flow: row wrap;
+}
+.dadJokeContainer__item {
+	flex-basis: 25%;
+	border: 1px #000000 solid;
+}	
