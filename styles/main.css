@@ -27,5 +27,9 @@ h6 {
 }
 
 .dadJokeHeading {
-	text-align: center;
+  text-align: center;
+}
+
+.documentBody {
+  background-image: url("https://i.imgur.com/ladiZEh.png");
 }
